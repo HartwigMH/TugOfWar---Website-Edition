@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/HartwigMH/TugOfWar Website
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<button type="button">Red Team</button>
-<button type="button">Green Team</button>
+<button type="button" autofocus>Red Team</button>
+<button type="button" autofocus>Green Team</button>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
